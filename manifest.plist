@@ -11,13 +11,13 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://120.196.73.132:8580/znckAppSite/applinks/test.znck.ipa</string>
+<string>http://edu.gzmtr.cc/learnAppSite/applinks/learn.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.gzmetro.gzswmstest</string>
+<string>com.gzmetro.learntest</string>
 <key>bundle-version</key>
 <string>1.0.5</string>
 <key>kind</key>
